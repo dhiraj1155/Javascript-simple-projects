@@ -1,0 +1,16 @@
+{
+  "name": "calc_using_server",
+  "version": "1.0.0",
+  "description": "this program is written to make a simple calculator with using server.",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhiraj Wagh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
